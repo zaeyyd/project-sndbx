@@ -15,9 +15,10 @@ export const TextField: React.FC<Props> = ({text, ok}) => {
 
     const [count, setcCunt] = useState(5)
     return (
-        <div>
-        {text}
-        
+        <div >
+            <h1 style={{color: "white"}}>
+            {text}
+            </h1>
         </div>
     );
 };

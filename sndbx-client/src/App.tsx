@@ -5,7 +5,10 @@ import { TextField } from './components/TextField';
 const App: React.FC = () => {
   return (
     <div className="App">
-      <TextField text='yo' ok={true}/>
+      <div className='box'>
+      <TextField text='yoo' ok={true}/>
+      </div>
+      
     </div>
   );
 }
