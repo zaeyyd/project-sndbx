@@ -1,7 +1,7 @@
 # 🏖 project-sndbx
 sndbx (sandbox) is a full stack web app where I play with different technologies and concepts - to learn **new stuff** and refresh my **fundementals**
 
-![cover image](readme_assets/sndbx_cover.png)
+![cover image](readme_assets/sndbx_header.svg)
 
 ## currently playing with...
 - frontend
@@ -19,6 +19,8 @@ sndbx (sandbox) is a full stack web app where I play with different technologies
 
 - backend
   - go vs node
+  - kafka
+  - caching
 
 
 ## already played with...
