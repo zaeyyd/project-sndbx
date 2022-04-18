@@ -13,10 +13,11 @@ interface Props {
 
 export const TextField: React.FC<Props> = ({text, ok}) => {
 
-    const [count, setcCunt] = useState(5)
+    const [count, setCount] = useState(5)
+    
     return (
         <div >
-            <h1 style={{color: "white"}}>
+            <h1 className='text-white'>
             {text}
             </h1>
         </div>
